@@ -13,3 +13,5 @@ Iron-colored food occasionally appears on the map. Eating it grants a temporary 
 吃下毒食物后，蛇的长度会减半；如果长度不足 2，则会直接死亡。不过，当一条蛇累计吃下 5 个毒食物后，它会变成一条毒蛇（Poison Snake）。毒蛇只能吃毒食物，但每吃一个都会增加 3 点长度，而普通食物只能增加 1 点。
 铁头（Iron Head）
 地图上会随机出现铁色食物。吃下后，蛇会在一段时间内获得**铁头（Iron Head）**能力，可以直接撞穿另一条蛇的身体，并从碰撞的位置将其截断。
+
+Demo: https://youtu.be/kCReAsd-N1E?si=xZWE4FFh5s_YI1k7
